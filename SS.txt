@@ -1,0 +1,60 @@
+What makes a good QA
+Knowledge about Software development process
+Improve the teamwork to increase productivity
+Improve cooperation between software, test, and QA engineers
+To improvements the QA processes.
+Communication skills.
+Able to conduct meetings and keep them focused
+
+What is the difference between regression testing and retesting?
+Regression testing is performing tests to ensure that modifications to a 
+module or system do noT have a negative effect on previous releases. 
+Retesting is merely running the same testing again.
+
+Explain the difference between bug severity and bug priority.
+Bug severity refers to the level of impact that the  bug has on the application or system while bug  priority 
+refers to the level of urgency in the need for a fix.
+Usually the severity is defined in terms of financial loss, damage to environment, company's reputation and 
+loss of life. Priority of a defect is related to how quickly a bug should be fixed and deployed to live servers.
+
+Tell me your project?
+I'm currently working on an application in which my team are specifically focused on search FUNCTIONALITY.
+
+Can you describe your daily activity?
+Tell Me About Your Daily Activities 
+• My shift starts at 8am, first thing first I double check the results of my smoke test, make sure that the
+application is up and running.
+• Then I am focusing on my emails which I received yesterday after I left my desk, to make sure that i am note
+missing anything from yesterday.
+• Then i am opening my Jira board, basically getting ready for my daily stand up which occurs at 10 am everyday.
+• At stand up as a team we discuss what we did yesterday what we are working on right now and more
+importantly if there is anything that holding me to do my job, impediments.
+• After stand up i go back to my desk and depending on which part of sprint our team is my tasks differ.
+• Lets say if it is early sprint i would participate in sprint planning meeting where we go over the user stories and
+pointing them.
+• Also I would work on maintaining my framework, participate in test scenario reviews. 
+
+• Towards the mid sprint where the code is being released i
+would complete my automation and start execution.
+• if it is end of the sprint I would be busy for getting reports
+ready and participate in demo meeting.
+• Also I we have retro meeting at the end of the sprint.
+• Every Tuesdays we have lunch and learn session where I share
+my coding and automation experience with my fellow manual
+testers,
+• Also every friday we have code review meeting among
+automation testers of the project.
+
+ 
+Tell Me About your responsibilities
+• Well, As I am an SDET my main responsibility is test automation.
+•  One of my main responsibilities is to automate, run and maintain smoke test suite.
+• I am also responsibly for maintaining, automating test scenarios for regression suite and for sure executing it which will
+include reporting as well.
+• As a cross functional team member I am responsible for reviewing test scenarios with my peer manual test team members
+and figuring out good candidates for automations.
+• Also reviewing my code with automation testers in order make sure that we are following the best practices for our team.
+• As we are implementing Agile, I am attending to Daily stand ups, where we are talking what we are doing what we did and
+are the any impediments.
+• I am attending Sprint planning in every sprint where we discuss user stories, give points and assign it to team members and
+demos, where I usually present what as a team we have accomplished.
