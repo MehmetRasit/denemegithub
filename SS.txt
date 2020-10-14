@@ -9,7 +9,7 @@ xxxxxcz
 xzcxc
 zx
 zdsd
-SEX
+
 
 What is the difference between regression testing and retesting?
 Regression testing is performing tests to ensure that modifications to a 
