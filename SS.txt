@@ -5,6 +5,11 @@ Knowledge about Software development process
 To improvements the QA processes.
 Communication skills.
 Able to conduct meetings and keep them focused
+xxxxxcz
+xzcxc
+zx
+zdsd
+SEX
 
 What is the difference between regression testing and retesting?
 Regression testing is performing tests to ensure that modifications to a 
@@ -33,7 +38,9 @@ importantly if there is anything that holding me to do my job, impediments.
 • Lets say if it is early sprint i would participate in sprint planning meeting where we go over the user stories and
 pointing them.
 • Also I would work on maintaining my framework, participate in test scenario reviews. 
-
+XZXXXZ
+XZXZX
+XXXX
 • Towards the mid sprint where the code is being released i
 would complete my automation and start execution.
 • if it is end of the sprint I would be busy for getting reports
